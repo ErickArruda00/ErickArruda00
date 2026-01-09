@@ -12,20 +12,24 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       
-      - uses: Platane/snk@master
-        id: snake-gif
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ErickArruda00
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          svg_out_path: output/github-contribution-grid-snake.svg
           
-      - name: Push to output branch
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
-          force: true
-          directory: dist
-
+      - name: Commit and push
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email github-actions[bot]@users.noreply.github.com
+          git add output/github-contribution-grid-snake.svg
+          git commit -m "Generate snake animation [skip ci]" || exit 0
+          git push
