@@ -1,95 +1,27 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+Erick+Arruda+👋" alt="Typing SVG" />
-</div>
+## Olá! Eu sou o Erick Arruda 🖐️
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErickArruda00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1B1C27&title_color=3CB2F6&icon_color=3CB2F6)
 
-<div align="center">
-  
-<<<<<<< HEAD
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErickArruda00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickArruda00&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF)
-=======
-  <img height="280em" src="https://github-readme-stats.vercel.app/api?username=ErickArruda00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
->>>>>>> 7283c1716378af6879925eb4795b9e1fa5ae83e4
-  
-</div>
 
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErickArruda00&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
-  
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickArruda00&bg_color=1B1C27&border_color=FFF&title_color=3CB2F6&text_color=FFF)
 
----
 
-## 🚀 Tecnologias e Ferramentas
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-perfil/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
 
-<div align="center">
-  
-  ### 🛠️ Stack Tecnológico
-  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  
-</div>
 
----
+## Tecnologias que eu uso no meu dia
 
-## 📊 Gráfico de Atividade
-
-<div align="center">
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ErickArruda00&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true)
-  
-</div>
-
----
-
-## 🔥 Contribuições
-
-<div align="center">
-  
-  <img src="https://raw.githubusercontent.com/ErickArruda00/ErickArruda00/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  
-</div>
-
----
-
-## 📈 Linguagens Mais Usadas (Gráfico Donut)
-
-<div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickArruda00&langs_count=10&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&hide=html,css,scss)
-  
-</div>
-
----
-
-## 📫 Como me encontrar
-
-<div align="center">
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErickArruda00)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ErickArruda00.ErickArruda00&left_color=00D9FF&right_color=FFFFFF)
-  
-</div>
+<div style="display: inline_block">
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</div><br/>
