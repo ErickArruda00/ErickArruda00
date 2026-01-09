@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/github-cat.gif" alt="GIF" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GIF" />
 </div>
 
 <h2 style="font-family: 'Courier New', Courier, monospace; letter-spacing: 1px;">Olá! Eu sou o Erick Arruda 🖐️</h2>
