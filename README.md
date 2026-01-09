@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+Erick+Arruda+👋;Desenvolvedor+apaixonado+por+tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Olá!+Eu+sou+Erick+Arruda+👋" alt="Typing SVG" />
 </div>
 
 ---
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErickArruda00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickArruda00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErickArruda00&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+  <img height="180em" src="https://github-readme-streak-stats.vercel.app/?user=ErickArruda00&theme=tokyonight"/>
   
 </div>
 
@@ -20,7 +20,7 @@
   
   ### 💻 Linguagens de Programação
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickArruda00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickArruda00&layout=compact&langs_count=8&theme=tokyonight"/>
   
   ### 🛠️ Stack Tecnológico
   
@@ -55,7 +55,7 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/ErickArruda00/ErickArruda00/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/ErickArruda00/ErickArruda00/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   
 </div>
 
@@ -65,7 +65,7 @@
 
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickArruda00&langs_count=8&layout=pie&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&hide=html,css)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickArruda00&langs_count=8&layout=pie&theme=tokyonight"/>
   
 </div>
 
@@ -86,7 +86,5 @@
 <div align="center">
   
   ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ErickArruda00.ErickArruda00&left_color=00D9FF&right_color=FFFFFF)
-  
-  ⭐️ From [ErickArruda00](https://github.com/ErickArruda00)
   
 </div>
