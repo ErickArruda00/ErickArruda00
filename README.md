@@ -6,8 +6,12 @@
 
 <div align="center">
   
+<<<<<<< HEAD
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErickArruda00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickArruda00&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF)
+=======
+  <img height="280em" src="https://github-readme-stats.vercel.app/api?username=ErickArruda00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+>>>>>>> 7283c1716378af6879925eb4795b9e1fa5ae83e4
   
 </div>
 
