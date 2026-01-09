@@ -6,9 +6,14 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickArruda00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErickArruda00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickArruda00&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF)
   
-  <img height="180em" src="https://github-readme-streak-stats.vercel.app/?user=ErickArruda00&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErickArruda00&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
   
 </div>
 
@@ -17,10 +22,6 @@
 ## 🚀 Tecnologias e Ferramentas
 
 <div align="center">
-  
-  ### 💻 Linguagens de Programação
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickArruda00&layout=compact&langs_count=8&theme=tokyonight"/>
   
   ### 🛠️ Stack Tecnológico
   
@@ -41,11 +42,11 @@
 
 ---
 
-## 📊 Estatísticas Detalhadas
+## 📊 Gráfico de Atividade
 
 <div align="center">
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ErickArruda00&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ErickArruda00&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true)
   
 </div>
 
@@ -61,11 +62,11 @@
 
 ---
 
-## 📈 Linguagens Mais Usadas (Gráfico de Pizza)
+## 📈 Linguagens Mais Usadas (Gráfico Donut)
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickArruda00&langs_count=8&layout=pie&theme=tokyonight"/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickArruda00&langs_count=10&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&hide=html,css,scss)
   
 </div>
 
